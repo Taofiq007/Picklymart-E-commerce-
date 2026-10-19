@@ -1,0 +1,4 @@
+source_id,name,slug,parent_source_id,description,status
+cat-electronics,Electronics,electronics,,,active
+cat-phones,Mobile Phones,mobile-phones,cat-electronics,Phones and accessories,active
+cat-home,Home and Living,home-and-living,,,active

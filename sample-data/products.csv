@@ -1,0 +1,2 @@
+source_id,sku,slug,name,description,category_source_id,brand_source_id,price,sale_price,currency,status
+prod-demo-001,DEMO-001,demo-phone,Demo Smartphone,Fictional example product,cat-phones,brand-demo,12000,10999,BDT,active
